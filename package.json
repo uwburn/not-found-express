@@ -1,0 +1,12 @@
+{
+  "name": "not-found-express",
+  "version": "0.0.1",
+  "main": "notFound.js",
+  "repository": {
+    "type": "git",
+    "url" : "git://192.168.1.10/not-found-express.git"
+  },
+  "dependencies": {
+    "http-error": "git://192.168.1.10/http-error.git"
+  }
+}
