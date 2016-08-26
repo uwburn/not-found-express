@@ -1,4 +1,4 @@
-# Not found middlweare
+# Not found middleware
 
 A simple Express middleware to return `HTTP 404 - Not found` when no route matches the request.
 

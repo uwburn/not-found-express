@@ -1,11 +1,17 @@
 {
   "name": "not-found-express",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "notFound.js",
+  "description": "Express middleware to return HTTP 404 - Not found when no route matches the request",
+  "author": { 
+    "name" : "Michele Tibaldi", 
+    "url" : "https://github.com/uwburn/"
+  },
   "repository": {
     "type": "git",
     "url" : "https://github.com/uwburn/not-found-express.git"
   },
+  "license": "LGPL-3.0",
   "dependencies": {
     "http-error": "https://github.com/uwburn/http-error.git"
   }
