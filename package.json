@@ -1,6 +1,6 @@
 {
   "name": "not-found-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "notFound.js",
   "description": "Express middleware to return HTTP 404 - Not found when no route matches the request",
   "author": { 
@@ -13,6 +13,6 @@
   },
   "license": "LGPL-3.0",
   "dependencies": {
-    "http-error": "https://github.com/uwburn/http-error.git"
+    "http-error-prototype": "^1.0.0"
   }
 }
