@@ -1,6 +1,6 @@
 {
   "name": "not-found-express",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "notFound.js",
   "description": "Express middleware to return HTTP 404 - Not found when no route matches the request",
   "author": { 
